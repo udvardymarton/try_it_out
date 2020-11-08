@@ -1,7 +1,3 @@
 # Hello
 Test for SZFM
-
-
-<a id = "https://udvardymarton.github.io/try_it_out/home.html">Yess boi</a>
-
-https://udvardymarton.github.io/try_it_out/
+[Team_Asd_Project_2!](https://udvardymarton.github.io/try_it_out/home.html)
